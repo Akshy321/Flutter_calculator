@@ -1,0 +1,10 @@
+calculator_app/
+│── android/               # Android-specific files
+│── build/                 # Build output (Generated)
+│── ios/                   # iOS-specific files
+│── lib/                   # Flutter source code
+│   ├── main.dart          # Main app logic
+│── test/                  # Tests (if any)
+│── pubspec.yaml           # Dependencies
+│── README.md              # Documentation
+│── .gitignore             # Ignore unnecessary files
